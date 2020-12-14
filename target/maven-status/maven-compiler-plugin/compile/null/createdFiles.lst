@@ -1,0 +1,6 @@
+address\hibernate\HibernateUtil.class
+address\sendMessage\SendToTelegram.class
+address\model\dataBaseModel\ContactMessageHistoryTable.class
+address\sendMessage\SendSMS.class
+address\hibernate\DataBaseConnector.class
+address\model\dataBaseModel\ContactTable.class

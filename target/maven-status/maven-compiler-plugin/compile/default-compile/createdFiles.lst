@@ -1,0 +1,9 @@
+address\model\Contact.class
+address\MainApp.class
+address\view\ContactControlWindowController.class
+address\DataBaseConnector.class
+address\Main.class
+address\HibernateUtil.class
+address\SendMessage.class
+address\view\ContactOverviewController.class
+address\model\ContactMessageHistoryTable.class

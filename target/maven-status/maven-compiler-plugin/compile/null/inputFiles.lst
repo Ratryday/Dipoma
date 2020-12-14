@@ -1,0 +1,11 @@
+D:\Git\Diploma_0.1\Diploma_0.1\src\main\java\address\Main.java
+D:\Git\Diploma_0.1\Diploma_0.1\src\main\java\address\view\ContactControlWindowController.java
+D:\Git\Diploma_0.1\Diploma_0.1\src\main\java\address\hibernate\HibernateUtil.java
+D:\Git\Diploma_0.1\Diploma_0.1\src\main\java\address\hibernate\DataBaseConnector.java
+D:\Git\Diploma_0.1\Diploma_0.1\src\main\java\address\model\Contact.java
+D:\Git\Diploma_0.1\Diploma_0.1\src\main\java\address\MainApp.java
+D:\Git\Diploma_0.1\Diploma_0.1\src\main\java\address\model\dataBaseModel\ContactMessageHistoryTable.java
+D:\Git\Diploma_0.1\Diploma_0.1\src\main\java\address\sendMessage\SendSMS.java
+D:\Git\Diploma_0.1\Diploma_0.1\src\main\java\address\sendMessage\SendToTelegram.java
+D:\Git\Diploma_0.1\Diploma_0.1\src\main\java\address\view\ContactOverviewController.java
+D:\Git\Diploma_0.1\Diploma_0.1\src\main\java\address\model\dataBaseModel\ContactTable.java
